@@ -1,0 +1,2 @@
+# PairsTradingStrategy
+pairs trading strategy
